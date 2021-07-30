@@ -1,0 +1,18 @@
+.title{
+  color: rgb(3, 3, 3);
+  padding-bottom: 20px;
+  text-align: center;
+}
+.p {
+  color: #777;
+  text-indent: 50px;
+}
+.btn{
+  display: block;
+  width: 200px;
+  padding: 8px 0;
+  margin: 20px auto;
+  border-radius: 8px;
+  text-align: center;
+
+}
